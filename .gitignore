@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+data/
+*.zip
+.DS_Store

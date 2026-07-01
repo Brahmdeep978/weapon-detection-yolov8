@@ -1,0 +1,11 @@
+train:
+  - D:/Python/weapon_detection/data/combined/train_gun/images
+  - D:/Python/weapon_detection/data/combined/train_knife/images
+val:
+  - D:/Python/weapon_detection/data/combined/valid_gun/images
+  - D:/Python/weapon_detection/data/combined/valid_knife/images
+test:
+  - D:/Python/weapon_detection/data/combined/test_gun/images
+  - D:/Python/weapon_detection/data/combined/test_knife/images
+nc: 2
+names: [gun, knife]
